@@ -8,6 +8,7 @@ leetcode problem solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChShivamPanwar/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/ChShivamPanwar/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ChShivamPanwar/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChShivamPanwar/leetcode/tree/master/0088-merge-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChShivamPanwar/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -23,6 +24,7 @@ leetcode problem solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ChShivamPanwar/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ChShivamPanwar/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChShivamPanwar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0680-valid-palindrome-ii](https://github.com/ChShivamPanwar/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChShivamPanwar/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -38,6 +40,15 @@ leetcode problem solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ChShivamPanwar/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ChShivamPanwar/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChShivamPanwar/leetcode/tree/master/0088-merge-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChShivamPanwar/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ChShivamPanwar/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ChShivamPanwar/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
