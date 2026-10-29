@@ -28,15 +28,18 @@ leetcode problem solutions
 | [0075-sort-colors](https://github.com/ChShivamPanwar/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChShivamPanwar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0680-valid-palindrome-ii](https://github.com/ChShivamPanwar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ChShivamPanwar/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChShivamPanwar/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ChShivamPanwar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ChShivamPanwar/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ChShivamPanwar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ChShivamPanwar/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
