@@ -61,6 +61,7 @@ leetcode problem solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChShivamPanwar/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChShivamPanwar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ChShivamPanwar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Hash Table
@@ -71,4 +72,12 @@ leetcode problem solutions
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ChShivamPanwar/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ChShivamPanwar/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ChShivamPanwar/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
