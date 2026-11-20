@@ -84,4 +84,5 @@ leetcode problem solutions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ChShivamPanwar/leetcode/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/ChShivamPanwar/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
